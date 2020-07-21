@@ -16,3 +16,4 @@ This project particularly aims on the classification of a person's face into one
 #### Working
 - Clone the repository using git clone https://github.com/rnag5076/Emotion-Recognition.git
 - Run the real_time.ipynb file which will load my customized model and will predict the emotions in real time through webcam.
+- If you want to generate the model you can use emotion_analysis.ipynb and run it to see the results as well.
