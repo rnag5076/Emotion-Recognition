@@ -1,9 +1,6 @@
 # Emotion-Recognition
 This project particularly aims on the classification of a person's face into one of seven categories, using deep convolution neural networks. 
 
-#### Inroduction
-
-
 #### Features
  - Facial emotion recognition is the process of detecting human emotions from facial expressions.
  - The human brain recognizes emotions automatically, and software has now been developed that can recognize emotions as well
@@ -15,3 +12,7 @@ This project particularly aims on the classification of a person's face into one
  - Opencv library is used for reading image data and passing that data into our custom deep learning model.
  - Tensorflow and Keras library were used to build the model.
  - Matplotlib library is used to visualize the data and training curves.
+
+#### Working
+- Clone the repository using git clone https://github.com/rnag5076/Emotion-Recognition.git
+- Run the real_time.ipynb file which will load my customized model and will predict the emotions in real time through webcam.
