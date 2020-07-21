@@ -14,6 +14,16 @@ This project particularly aims on the classification of a person's face into one
  - Matplotlib library is used to visualize the data and training curves.
 
 #### Working
-- Clone the repository using git clone https://github.com/rnag5076/Emotion-Recognition.git
-- Run the real_time.ipynb file which will load my customized model and will predict the emotions in real time through webcam.
-- If you want to generate the model you can use emotion_analysis.ipynb and run it to see the results as well.
+- Clone the repository using git clone 
+```bash
+git clone https://github.com/rnag5076/Emotion-Recognition.git
+cd Emotion-Recognition
+```
+- Run the real_time.py file which will load my customized model and will predict the emotions in real time through webcam.
+```bash
+python real_time.py
+```
+- If you want to generate the model you can use emotion_analysis.py and run it to see the results as well.
+```bash
+python emotion_analysis.py
+```
