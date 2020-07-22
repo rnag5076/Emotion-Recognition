@@ -13,7 +13,7 @@ This project particularly aims on the classification of a person's face into one
  - Tensorflow and Keras library were used to build and train the model.
  - Matplotlib library is used to visualize the data and training curves.
 
-#### Data Preparation (optional)
+#### Data Preparation
  - The original FER2013 dataset in Kaggle is available as a single csv file. I had converted into a dataset of images for training/testing. The dataset can be downloaded from https://www.kaggle.com/deadskull7/fer2013
 #### Working
 - Clone the repository using git clone 
