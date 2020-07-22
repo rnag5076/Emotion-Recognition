@@ -10,7 +10,7 @@ This project particularly aims on the classification of a person's face into one
  - Pandas library is used for reading the dataset stored in csv file.
  - Numpy library is used for converting data into image format.
  - Opencv library is used for reading image data and passing that data into our custom deep learning model.
- - Tensorflow and Keras library were used to build the model.
+ - Tensorflow and Keras library were used to build and train the model.
  - Matplotlib library is used to visualize the data and training curves.
 
 #### Working
