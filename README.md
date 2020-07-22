@@ -14,8 +14,10 @@ This project particularly aims on the classification of a person's face into one
  - Matplotlib library is used to visualize the data and training curves.
 
 #### Data Preparation
- - The original FER2013 dataset in Kaggle is available as a single csv file. I had converted into a dataset of images for training/testing. The dataset can be downloaded from https://www.kaggle.com/deadskull7/fer2013
+
+- The original FER2013 dataset in Kaggle is available as a single csv file. I had converted into a dataset of images for training/testing. The dataset can be downloaded from https://www.kaggle.com/deadskull7/fer2013
 #### Working
+
 - Clone the repository using git clone 
 ```bash
 git clone https://github.com/rnag5076/Emotion-Recognition.git
